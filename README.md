@@ -36,6 +36,7 @@ Lab 9: Creating a release-based workflow on GitHub
 
 You can use the [editor on GitHub](https://github.com/shuxi-wu/shuxi-wu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+![image](https://raw.githubusercontent.com/shuxi-wu/shuxi-wu.github.io/main/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg)
 
 ### Markdown
 
