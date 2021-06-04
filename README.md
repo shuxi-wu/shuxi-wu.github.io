@@ -1,18 +1,18 @@
 ## CIT 281 Projects
 
-Project 1: Practice using the command line interface
+[Project 1](https://shuxi-wu.github.io/cit281-project1/): Practice using the command line interface
 
-Project 2: Creating and using local git repositories; node.js programming (getRandomLetter)
+[Project 2](https://shuxi-wu.github.io/cit281-project2/): Creating and using local git repositories; node.js programming (getRandomLetter)
 
-Project 3: Using code modules and fastify; creating REST API that handles GET
+[Project 3](https://shuxi-wu.github.io/cit281-project3/): Using code modules and fastify; creating REST API that handles GET
 
-Project 4: REST APIs handling different routes, parameters, and verbs
+[Project 4](https://shuxi-wu.github.io/cit281-project4/): REST APIs handling different routes, parameters, and verbs
 
-(Project 5: Extra credit)
+([Project 5](https://shuxi-wu.github.io/cit281-project5/): Extra credit)
 
-Project 6: Working with classes and inheritance 
+[Project 6](https://shuxi-wu.github.io/cit281-project6/): Working with classes and inheritance 
 
-Project 7: Creating user-level GitHub page for all projects and labs
+[Project 7](https://shuxi-wu.github.io/cit281-project7/): Creating user-level GitHub page for all projects and labs
 
 ## CIT 281 Labs
 
@@ -34,38 +34,4 @@ Lab 8: Using node-fetch
 
 Lab 9: Creating a release-based workflow on GitHub
 
-You can use the [editor on GitHub](https://github.com/shuxi-wu/shuxi-wu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-![image](https://raw.githubusercontent.com/shuxi-wu/shuxi-wu.github.io/main/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuxi-wu/shuxi-wu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
