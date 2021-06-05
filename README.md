@@ -16,22 +16,22 @@
 
 ## CIT 281 Labs
 
-Lab 1: Installing and setting up softwares (VSCode, Git), practicing node.js programming
+[Lab 1](https://shuxi-wu.github.io/cit281-lab1/): Installing and setting up softwares (VSCode, Git), practicing node.js programming
 
-Lab 2: Practicing CLI, using local git repos
+[Lab 2](https://shuxi-wu.github.io/cit281-lab2/): Practicing CLI, using local git repos
 
-Lab 3: Modern Javascript programming, function expressions, code modules, spread operators 
+[Lab 3](https://shuxi-wu.github.io/cit281-lab3/): Modern Javascript programming, function expressions, code modules, spread operators 
 
-Lab 4: Using fastify and setting up node.js web server, query parameters
+[Lab 4](https://shuxi-wu.github.io/cit281-lab4/): Using fastify and setting up node.js web server, query parameters
 
-Lab 5: Using Postman to test node.js servers 
+[Lab 5](https://shuxi-wu.github.io/cit281-lab5/): Using Postman to test node.js servers 
 
-Lab 6: Creating and editing classes
+[Lab 6](https://shuxi-wu.github.io/cit281-lab6/): Creating and editing classes
 
-Lab 7: Creating GitHub repos, local-remote git communications
+[Lab 7](https://shuxi-wu.github.io/cit281-lab7/): Creating GitHub repos, local-remote git communications
 
-Lab 8: Using node-fetch 
+[Lab 8](https://shuxi-wu.github.io/cit281-lab8/): Using node-fetch 
 
-Lab 9: Creating a release-based workflow on GitHub
+[Lab 9](https://shuxi-wu.github.io/cit281-lab9/): Creating a release-based workflow on GitHub
 
 
